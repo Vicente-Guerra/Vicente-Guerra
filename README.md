@@ -1,7 +1,8 @@
+
 # ¡Hola! Soy Vicente Guerra 👋
-p align="left"
-img src="https://komarev.com/ghpvc/?username=d..." alt="profile views"
-p/
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vicente-Guerra&color=blue" alt="profile views"/>
+</p>
 > **Técnico Medio en Electrónica | Desarrollador de Software | Entusiasta de la Ciberseguridad**
 > 
 > Me especializo en conectar el mundo físico con el digital mediante la **robótica (IoT)** y la **automatización de procesos**. Me apasiona entender los sistemas en su totalidad: desde los componentes electrónicos y el hardware, hasta la lógica del software y la seguridad en la red.
