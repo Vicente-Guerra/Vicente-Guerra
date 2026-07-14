@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Vicente-Guerra&color=blue" alt="profile views"/>
-</p>
-
 # ¡Hola! Soy Vicente Guerra 👋
 > **Técnico Medio en Electrónica | Desarrollador de Software | Entusiasta de la Ciberseguridad**
 > 
