@@ -52,9 +52,9 @@
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vicente-guerra)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guerravicente603@gmail.com)
 
 ## 📫 Contacto
-- 💼 LinkedIn: [Enlace a tu perfil]
+- 💼 LinkedIn: [www.linkedin.com/in/vicente-guerra]
 - 📧 Correo: [guerravicente603@gmail.com]
